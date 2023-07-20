@@ -1,4 +1,4 @@
-// swift-tools-version: 5.8
+// swift-tools-version: 5.0
 import PackageDescription
 
 let package = Package(
@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnylineTireTreadSdk",
-            url: "https://storage.googleapis.com/anyline-ttr-ios-artifacts/AnylineTireTreadSdk_SPM_2.1.0-preview.1.zip",
-            checksum: "6df0d52cb328f59bc61de60345659da30e966b4adc36daa3ab0e32f411a82576"
+            url: "https://storage.googleapis.com/anyline-ttr-ios-artifacts/AnylineTireTreadSdk_spm_2.1.0-preview.1.zip",
+            checksum: "40d2c7b0ea386c1447f6dae5180fa0ec87d57a251f2db82bfdaaf95438b7123f"
         )
     ]
 )
