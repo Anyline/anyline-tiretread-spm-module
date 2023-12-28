@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "AnylineTireTreadSDK",
-    platforms: [.iOS("15.2")],
+    platforms: [.iOS("16.4")],
     products: [
         .library(
             name: "AnylineTireTreadSdk",
