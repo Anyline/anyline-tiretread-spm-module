@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnylineTireTreadSdk",
-            url: "https://ttr-sdk-ios.anyline.io/stable/13.0.0/AnylineTireTreadSdk_spm_13.0.0.zip",
-            checksum: "87c1bee31207e3939b52f9d8155dd53ad96f158d257bb39784bb668e82592f57"
+            url: "https://ttr-sdk-ios.anyline.io/stable/13.0.1/AnylineTireTreadSdk_spm_13.0.1.zip",
+            checksum: "2360475916f2458db66e50dd022d149dfdf6b5f8eab90687fdbe0f416248598d"
         )
     ]
 )
