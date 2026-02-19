@@ -1,4 +1,4 @@
-# Copyright © 2024 Anyline GmbH. All rights reserved.
+# Copyright © 2026 Anyline GmbH. All rights reserved.
 
 ## License
 
