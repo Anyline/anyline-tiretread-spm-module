@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "AnylineTireTreadSDK",
-    platforms: [.iOS("16.4")],
+    platforms: [.iOS("13.4")],
     products: [
         .library(
             name: "AnylineTireTreadSdk",
@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnylineTireTreadSdk",
-            url: "https://ttr-sdk-ios.anyline.io/stable/14.0.1/AnylineTireTreadSdk_spm_14.0.1.zip",
-            checksum: "e0029864599b72e90aeafb8429132e4d44186f3adf8137af57fc3ca9e1d9a616"
+            url: "https://ttr-sdk-ios.anyline.io/stable/15.0.0/AnylineTireTreadSdk_spm_15.0.0.zip",
+            checksum: "e16c7f331c20c866ec99b2a3762fc9c75ca3bd5ba1b5f8fdaa26fcc986c04383"
         )
     ]
 )
